@@ -1,1 +1,5 @@
 # Pyduckhunter
+这是一款快捷生成nethunter手机DUCKHUNTER功能的攻击代码项目
+目前有 msf powershell版本的windows/meterpreter/reverse_tcp和windows/meterpreter/reverse_http以及导出windows链接所有无线信息代码
+此版本暂时为测试的0.1版本 代码臃肿且没有优化
+默认badusb代码可绕过中文输入法
