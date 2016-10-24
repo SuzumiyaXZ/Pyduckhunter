@@ -10,7 +10,7 @@ def logo():
 |_|    \__, |\__,_|\__,_|\___|_|\_\_| |_|\__,_|_| |_|\__\___|_|
        |___/
 
-version:0.1
+version:0.2
 
 [\033[1;32;1m|..|\033[0m] Written By: Suzumiya QQ:1635123039                 [\033[1;32;1m|..|\033[0m]
 [\033[1;32;1m|..|\033[0m] Blog: http://suzumiya.me                           [\033[1;32;1m|..|\033[0m]
@@ -32,8 +32,3 @@ def show():
    2. Payloads for wireless
 """
     return show
-def powershellpayload():
-    powershellpayload = '''1. Powershell Execute
-2. Powershell Download and Execute
-        '''
-    return powershellpayload
