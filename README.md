@@ -5,8 +5,9 @@
 powershell执行reverse_tcp和reverse_http（meterpreter）
 powershell下载文件并执行
 powershell格式化全盘（除C盘）
+导出windows所有无线链接密码
 
-3.此版本暂时为测试的0.2版本 代码优化了一点点（某些模块还是很臃肿），解决用户乱输入报错的bug
+3.此版本暂时为测试的0.2.1版本 代码优化了一点点，更加分模块化，解决用户乱输入报错的bug
 
 4.默认duckhunter代码可绕过中文输入法
 
