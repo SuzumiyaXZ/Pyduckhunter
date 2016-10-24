@@ -2,11 +2,11 @@
 1.这是一款快捷生成nethunter手机DUCKHUNTER功能的攻击代码项目
 
 2.目前有的功能：
-2.1.powershell执行reverse_tcp和reverse_http（meterpreter）
-2.2.powershell下载文件并执行
-2.3.powershell格式化全盘（除C盘）
+powershell执行reverse_tcp和reverse_http（meterpreter）
+powershell下载文件并执行
+powershell格式化全盘（除C盘）
 
-3.此版本暂时为测试的0.2版本 代码优化了一点点，解决用户乱输入报错的bug
+3.此版本暂时为测试的0.2版本 代码优化了一点点（某些模块还是很臃肿），解决用户乱输入报错的bug
 
 4.默认duckhunter代码可绕过中文输入法
 
